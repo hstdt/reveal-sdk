@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name = "Reveal-SDK"
-  spec.version = "42"
+  spec.version = "43"
   spec.summary = "The Reveal SDK: Runtime view debugging for iOS & tvOS apps & extensions."
   spec.description = "Reveal brings powerful runtime view debugging to iOS developers.\nPlease visit our website for more details: http://revealapp.com/"
   spec.homepage = "https://revealapp.com/"
@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
     "Itty Bitty Apps Pty Ltd" => "reveal-support@ittybittyapps.com"
   }
   spec.source = {
-    :http => "https://download.revealapp.com/RevealServer-42.zip"
+    :http => "https://download.revealapp.com/RevealServer-43.zip"
   }
   spec.social_media_url = "https://twitter.com/reveal_app"
   spec.screenshots = [
