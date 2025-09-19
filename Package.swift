@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "RevealSDKFramework",
-            url: "https://download.revealapp.com/RevealServer-53.zip",
-            checksum: "89600f91ed4d6b430b6cd40114c5fd59594610c38cdd147c7880018ee5a8dcfc"
+            url: "https://download.revealapp.com/RevealServer-55.zip",
+            checksum: "6e1aa7239afd045eda7f315eb0e57c1e23af7002cb88dc20940f2831ccf13c1d"
         )
     ]
 )
